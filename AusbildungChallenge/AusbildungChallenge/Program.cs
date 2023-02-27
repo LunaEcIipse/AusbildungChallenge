@@ -40,7 +40,7 @@ namespace AusbildungChallenge
                 }
             }
         }
-        //Declares the Headers for the values in the table
+        //Declares the headers for the values in the table
         public class Article
         {
             [Name("Hauptartikelnr")]

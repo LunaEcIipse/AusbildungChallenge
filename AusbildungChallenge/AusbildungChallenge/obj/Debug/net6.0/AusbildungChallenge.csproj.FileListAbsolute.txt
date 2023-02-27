@@ -1,0 +1,17 @@
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\bin\Debug\net6.0\AusbildungChallenge.exe
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\bin\Debug\net6.0\AusbildungChallenge.deps.json
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\bin\Debug\net6.0\AusbildungChallenge.runtimeconfig.json
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\bin\Debug\net6.0\AusbildungChallenge.dll
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\bin\Debug\net6.0\ref\AusbildungChallenge.dll
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\bin\Debug\net6.0\AusbildungChallenge.pdb
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\bin\Debug\net6.0\CsvHelper.dll
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.csproj.AssemblyReference.cache
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.AssemblyInfoInputs.cache
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.AssemblyInfo.cs
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.csproj.CoreCompileInputs.cache
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.csproj.CopyComplete
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.dll
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\ref\AusbildungChallenge.dll
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.pdb
+E:\GitHubDesktop\AusbildungChallenge\AusbildungChallenge\AusbildungChallenge\obj\Debug\net6.0\AusbildungChallenge.genruntimeconfig.cache

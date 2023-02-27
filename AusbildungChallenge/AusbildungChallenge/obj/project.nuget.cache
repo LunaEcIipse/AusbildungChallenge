@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ry3TIax/yMUCBrY3Je5cV59mc/VTydzWWHoChPe2qkL14q/Uv77SVpzpRsNVyYDqgJgM8ymcSORI7bg4kIMK+w==",
+  "success": true,
+  "projectFilePath": "E:\\GitHubDesktop\\AusbildungChallenge\\AusbildungChallenge\\AusbildungChallenge\\AusbildungChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nutzer\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
